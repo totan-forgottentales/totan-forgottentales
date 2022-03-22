@@ -1,0 +1,7 @@
+site_name: Tales of the Arabian Nights 2.0 - The Forgotten Tales
+site_url: http://docs.the-forgotten-tales.com/
+nav:
+    - Home: index.md
+    - Installation: installation.md
+    - Imprint: imprint.md
+theme: readthedocs

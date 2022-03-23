@@ -1,7 +1,11 @@
 site_name: Tales of the Arabian Nights 2.0 - The Forgotten Tales
 site_url: http://docs.the-forgotten-tales.com/
 nav:
-    - Home: index.md
+    - Welcome: index.md
+    - Hot to get it?: how_to_get_it.md
     - Installation: installation.md
-    - Imprint: imprint.md
-theme: readthedocs
+    - Service Menu: service_settings.md
+    - Imprint: https://mircoplayfields.com/l/contact
+theme: material
+extra_css:
+  - stylesheets/extra.css

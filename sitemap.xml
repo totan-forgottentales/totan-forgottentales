@@ -2,17 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>http://docs.the-forgotten-tales.com/</loc>
-         <lastmod>2022-03-22</lastmod>
+         <lastmod>2022-03-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://docs.the-forgotten-tales.com/imprint/</loc>
-         <lastmod>2022-03-22</lastmod>
+         <loc>http://docs.the-forgotten-tales.com/how_to_get_it/</loc>
+         <lastmod>2022-03-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://docs.the-forgotten-tales.com/installation/</loc>
-         <lastmod>2022-03-22</lastmod>
+         <lastmod>2022-03-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://docs.the-forgotten-tales.com/service_settings/</loc>
+         <lastmod>2022-03-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

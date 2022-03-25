@@ -1,1 +1,1 @@
-Tales of the Arabian Nights 2.0 - The Forgotten Tales is available at [our webshop](https://mircoplayfields.com/). We will produce and deliver the kit in batches.
+Tales of the Arabian Nights 2.0 - The Forgotten Tales is available at [our webshop](https://mircoplayfields.com/c/totan-2-0-forgotten-tales). We will produce and deliver the kit in batches.

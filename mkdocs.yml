@@ -2,10 +2,14 @@ site_name: Tales of the Arabian Nights 2.0 - The Forgotten Tales
 site_url: http://docs.the-forgotten-tales.com/
 nav:
     - Welcome: index.md
-    - Hot to get it?: how_to_get_it.md
+    - How to get it?: how_to_get_it.md
     - Installation: installation.md
+    - Software Updates: software_updates.md
     - Service Menu: service_settings.md
     - Imprint: https://mircoplayfields.com/l/contact
-theme: material
+theme:
+  name: material
+  logo: images/logo.png
+  favicon: images/logo.png
 extra_css:
   - stylesheets/extra.css

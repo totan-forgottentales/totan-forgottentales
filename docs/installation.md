@@ -23,8 +23,8 @@
 
 ## Installation
 
-![Backbox](backbox_annotated.jpg)
-![Speaker Panel](speaker_panel_annotated.jpg)
+![Backbox](images/backbox_annotated.jpg)
+![Speaker Panel](images/speaker_panel_annotated.jpg)
 
  1. Remove CPU board and Sound board from the backbox of your machine
  2. Remove the speaker panel completely (and disconnect all cables)
@@ -43,6 +43,6 @@
 15. Connect Mini USB Cable between CPU Board (any USB) and DMD (v1: top right; v2: middle left). Ziptie the cable at both sides.
 16. Unscrew the launcher switch on your playfield.
 17. Disconnect knocker in the backbox (Molex 03-06-1023 connector)
-    ![Disconnect knocker connector](disconnect_knocker.jpg)
+    ![Disconnect knocker connector](images/disconnect_knocker.jpg)
 18. Screw-in Autolauncher mech to your playfield. Connect wires from the original switch (or use old switch). Connect autolauncher at `J135` and `J117` at the driver board (top and bottom). Ziptie/Secure cable in the cabinet.
 19. Install new score cards into your apron.

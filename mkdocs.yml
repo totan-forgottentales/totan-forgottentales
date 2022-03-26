@@ -5,7 +5,8 @@ nav:
     - How to get it?: how_to_get_it.md
     - Installation: installation.md
     - Software Updates: software_updates.md
-    - Service Menu: service_settings.md
+    - Support: support.md
+    # - Service Menu: service_settings.md
     - Imprint: https://mircoplayfields.com/l/contact
 theme:
   name: material

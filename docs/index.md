@@ -4,4 +4,4 @@ Tales of the Arabian Nights is a beautiful machine with an awesome playfield lay
 
 ![The Forgotten Tales](images/logo.png)
 
-On this page you will find information on [how to get the kit?](how_to_get_it.md) and [how to install it?](installation.md). Additionally, we added some information about the [settings in service menu](service_settings.md).
+On this page you will find information on [how to get the kit?](how_to_get_it.md) and [how to install it?](installation.md).

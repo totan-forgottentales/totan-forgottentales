@@ -26,6 +26,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>http://docs.the-forgotten-tales.com/software_versions/</loc>
+         <lastmod>2022-03-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>http://docs.the-forgotten-tales.com/support/</loc>
          <lastmod>2022-03-26</lastmod>
          <changefreq>daily</changefreq>

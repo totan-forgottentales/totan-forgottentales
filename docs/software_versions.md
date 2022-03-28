@@ -2,7 +2,7 @@
 
 # Versions
 
-Please read our [instructions on Softwatre Updates](software_updates.md) on how to install an update.
+Please read our [instructions on Software Updates](software_updates.md) on how to install an update.
 
 | Version                                                              | Release Date   |
 | -------------------------------------------------------------------- | -------------- |

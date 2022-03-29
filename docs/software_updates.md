@@ -2,6 +2,8 @@
 
 Software update is very simple and risk free.
 
+## How to update?
+
 0. (Optional) Check/Get your current software version at boot or at the status display of the CPU board.
 1. Power down your machine.
 2. Remove the SD card from the CPU board.
@@ -14,3 +16,8 @@ Software update is very simple and risk free.
 9. Wait until the process completed. This might take a few minutes.
 10. Remove SD card from SD card reader.
 11. Insert SD card into CPU board.
+
+## Notes
+
+* You only need to install the latest update (no need to install any intermediates).
+* Upgrading your machine will reset any settings, audits and high scores.

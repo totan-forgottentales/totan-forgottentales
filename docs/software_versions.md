@@ -6,10 +6,17 @@ Please read our [instructions on Software Updates](software_updates.md) on how t
 
 | Version                                                              | Release Date   |
 | -------------------------------------------------------------------- | -------------- |
+| [0.4.3](https://images.the-forgotten-tales.com/totan_0.4.3.image)    | 2022/03/29     |
 | [0.4.2](https://images.the-forgotten-tales.com/totan_0.4.2.image)    | 2022/03/26     |
 | [0.4.1](https://images.the-forgotten-tales.com/totan_0.4.1.image)    | 2022/03/26     |
 
 ## Changlog
+
+ [0.4.3 / 2022/03/29](https://images.the-forgotten-tales.com/totan_0.4.3.image)
+
+   * Fix hang during tilt/slam tilt
+   * Improve diverter handling
+   * Fixes based on TPF feedback
 
  [0.4.2 / 2022/03/26](https://images.the-forgotten-tales.com/totan_0.4.2.image)
 

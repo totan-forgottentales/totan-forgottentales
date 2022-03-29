@@ -18,7 +18,7 @@
 ## Notes
 
 * Installation should take about 1h
-* If unsure about any step please contact us at: mircoplayfields@gmail.com (TODO: add new email here)
+* If unsure about any step please contact us at: mircoplayfields@gmail.com
 * All connectors should fit and match. If they do not fit or match please do not turn on the machine and contact us instead.
 
 ## Installation
@@ -45,4 +45,7 @@
 17. Disconnect knocker in the backbox (Molex 03-06-1023 connector)
     ![Disconnect knocker connector](images/disconnect_knocker.jpg)
 18. Screw-in Autolauncher mech to your playfield. Connect wires from the original switch (or use old switch). Connect autolauncher at `J135` and `J117` at the driver board (top and bottom). Ziptie/Secure cable in the cabinet.
+    ![Plunger from below](images/plunger1.jpg)
+    ![Plunger from behind](images/plunger2.jpg)
+
 19. Install new score cards into your apron.

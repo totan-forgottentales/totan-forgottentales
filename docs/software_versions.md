@@ -4,14 +4,19 @@
 
 Please read our [instructions on Software Updates](software_updates.md) on how to install an update.
 
-| Version                                                              | Release Date   |
-| -------------------------------------------------------------------- | -------------- |
-| [0.4.4](https://images.the-forgotten-tales.com/totan_0.4.4.image)    | 2022/03/31     |
-| [0.4.3](https://images.the-forgotten-tales.com/totan_0.4.3.image)    | 2022/03/29     |
-| [0.4.2](https://images.the-forgotten-tales.com/totan_0.4.2.image)    | 2022/03/26     |
-| [0.4.1](https://images.the-forgotten-tales.com/totan_0.4.1.image)    | 2022/03/26     |
+Latest Version: [0.5.0](https://images.the-forgotten-tales.com/totan_0.5.0.image)
 
 ## Changlog
+
+ [0.5.0 / 2022/05/04](https://images.the-forgotten-tales.com/totan_0.5.0.image)
+
+   * Improved contrast
+   * Changed default font for better readibility
+   * Fixed some animations
+   * Popup text with clear background
+   * Improved defaults
+   * Commas in score
+   * Fixed crashes
 
  [0.4.4 / 2022/03/31](https://images.the-forgotten-tales.com/totan_0.4.4.image)
 

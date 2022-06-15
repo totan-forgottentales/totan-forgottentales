@@ -4,9 +4,13 @@
 
 Please read our [instructions on Software Updates](software_updates.md) on how to install an update.
 
-Latest Version: [0.5.0](https://images.the-forgotten-tales.com/totan_0.5.0.image)
+Latest Version: [0.5.1](https://images.the-forgotten-tales.com/totan_0.5.1.image)
 
 ## Changlog
+
+ [0.5.1 / 2022/06/01](https://images.the-forgotten-tales.com/totan_0.5.1.image)
+
+   * Bugfixes based on user reports
 
  [0.5.0 / 2022/05/04](https://images.the-forgotten-tales.com/totan_0.5.0.image)
 

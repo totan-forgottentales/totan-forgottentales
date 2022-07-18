@@ -4,9 +4,16 @@
 
 Please read our [instructions on Software Updates](software_updates.md) on how to install an update.
 
-Latest Version: [0.5.1](https://images.the-forgotten-tales.com/totan_0.5.1.image)
+Latest Version: [0.5.2](https://images.the-forgotten-tales.com/totan_0.5.2.image)
 
 ## Changlog
+
+ [0.5.2 / 2022/07/18](https://images.the-forgotten-tales.com/totan_0.5.2.image)
+
+   * Fixed graphics errors
+   * Better tilt logic
+   * Fixed Harem multiball
+   * Better fonts
 
  [0.5.1 / 2022/06/01](https://images.the-forgotten-tales.com/totan_0.5.1.image)
 

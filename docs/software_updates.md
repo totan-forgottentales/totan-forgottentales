@@ -7,7 +7,7 @@ Software update is very simple and risk free.
 0. (Optional) Check/Get your current software version at boot or at the status display of the CPU board.
 1. Power down your machine.
 2. Remove the SD card from the CPU board.
-3. Download the latest software version from [softwre versions](software_versions.md)
+3. Download the latest software version from [software versions](software_versions.md)
 4. Download and install [Etcher](https://www.balena.io/etcher/).
 5. Plug the SD card reader (included in kit) into a USB port on your computer
 6. Plug SD card (from step 2) into SD card reader

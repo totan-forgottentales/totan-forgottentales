@@ -4,9 +4,34 @@
 
 Please read our [instructions on Software Updates](software_updates.md) on how to install an update.
 
-Latest Version: [0.5.2](https://images.the-forgotten-tales.com/totan_0.5.2.image)
+Latest Version: [0.5.3](https://images.the-forgotten-tales.com/totan_0.5.3.image)
 
 ## Changlog
+
+ [0.5.3 / 2022/08/01](https://images.the-forgotten-tales.com/totan_0.5.3.image)
+
+  * fix replay tale
+  * new colors for make a wish
+  * new colors for lightning lamp anim
+  * new color list for ball save
+  * new color for shooting star activation
+  * new colors for shoot reminder and match yellow for the golden shot
+  * bolero will not be selectionable with setting off
+  * ball save remove for shooting star
+  * remove ball save at start at shooting phantom and * reduce the ball save time during drain to only 2s
+  * check if the ball save is active to give the special
+  * now an animation will play "REPLAY" award instead of "EXTRA BALL"
+  * activate the loop magnet only when there is no lock ball
+  * correction of a bug to give another EB when tournament or max EB reached in bazaar mode and make a wish
+  * multiball save bug fix
+  * remove ball save in Maze mode
+  * no new ball save if one is running
+  * change ball save in make a wish bonus from 30 and 60 to 10 and 15s
+  * reduce default ball save timer for fireball multiball  and LL multiball
+  * coordonate the MB ball save values
+  * remove "Bonus Tale Timer" setting
+  * add new setting for the Shooting phantom: use random delay and another one to set up the delay manually
+  * new Special Settings
 
  [0.5.2 / 2022/07/18](https://images.the-forgotten-tales.com/totan_0.5.2.image)
 

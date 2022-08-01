@@ -6,7 +6,7 @@ Please read our [instructions on Software Updates](software_updates.md) on how t
 
 Latest Version: [0.5.3](https://images.the-forgotten-tales.com/totan_0.5.3.image)
 
-## Changlog
+## Changelog
 
  [0.5.3 / 2022/08/01](https://images.the-forgotten-tales.com/totan_0.5.3.image)
 

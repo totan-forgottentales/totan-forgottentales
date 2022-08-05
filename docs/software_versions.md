@@ -1,12 +1,21 @@
 # Software Versions
 
-# Versions
+## Versions
 
 Please read our [instructions on Software Updates](software_updates.md) on how to install an update.
 
-Latest Version: [0.5.3](https://images.the-forgotten-tales.com/totan_0.5.3.image)
+Latest Version: [0.5.4](https://images.the-forgotten-tales.com/totan_0.5.4.image)
 
 ## Changelog
+
+ [0.5.4 / 2022/08/05](https://images.the-forgotten-tales.com/totan_0.5.4.image)
+
+  * fix display infos for ball save
+  * fix a bug in bazaar to prevent the make a wish to launch
+  * fix a bug to offer 2 times replay tale in make a wish
+  * fix camel race progress issue and crash with the inner loop
+  * fix lock ball release after 2 ball locked and another ball to hit lock3 switch
+  * add delay after tilt
 
  [0.5.3 / 2022/08/01](https://images.the-forgotten-tales.com/totan_0.5.3.image)
 

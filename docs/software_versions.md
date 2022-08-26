@@ -4,9 +4,21 @@
 
 Please read our [instructions on Software Updates](software_updates.md) on how to install an update.
 
-Latest Version: [0.5.4](https://images.the-forgotten-tales.com/totan_0.5.4.image)
+Latest Version: [0.5.4](https://images.the-forgotten-tales.com/totan_0.5.5.image)
 
 ## Changelog
+
+ [0.5.5 / 2022/08/26](https://images.the-forgotten-tales.com/totan_0.5.5.image)
+
+  * code change for no lock action if fireball or LL lamp multi are running
+  * yellow targets lamps are now visible during lightning mode secial effect
+  * limit the EB with tiger loop, give a bonus point instead
+  * replay tale no more available if a tale is running
+  * jackpot quote is louder
+  * add text infos at the end of shell game
+  * more colors
+  * change weak light GI instead of GI all dark
+  * fix tilt crash
 
  [0.5.4 / 2022/08/05](https://images.the-forgotten-tales.com/totan_0.5.4.image)
 
